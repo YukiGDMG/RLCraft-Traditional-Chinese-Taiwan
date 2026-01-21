@@ -23,7 +23,7 @@ RLCraft 的繁體中文翻譯包。
 
    下載 resources.zip 並解壓縮。
 
-   找到你的實例目錄 'PrismLauncher/instances/RLCraft/minecraft' 。
+   找到你的實例目錄 'instances/RLCraft/minecraft' 。
 
 ================== 問題回報與建議 ==================
 
